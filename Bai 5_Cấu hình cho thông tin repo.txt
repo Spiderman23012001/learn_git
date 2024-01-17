@@ -1,2 +1,15 @@
 Tạo repo: git init ex2
-xem cấu hình
+
+xem cấu hình: git config -l
+
+xem cấu hình global: git config -l --global
+
+xem cấu hình local: git config -l --local
+
+cấu hình global: (username)
+git config --global user.name "Tran Duc Tin"
+
+cấu hfinh global: (email)
+git config --global user.email "trantin23012001@gmail.com"
+
+Lặp lại các bước 5, 6 nhưng cấu hình local

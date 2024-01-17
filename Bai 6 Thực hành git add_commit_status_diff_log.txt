@@ -1,0 +1,5 @@
+working directory --> git add --> stagging area --> git commmit --> repository
+
+Head: repository cuối cùng
+index: chứa những thông tin trong stagging area 
+working directory: nơi đang làm việc (máy tính)
