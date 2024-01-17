@@ -3,3 +3,18 @@ working directory --> git add --> stagging area --> git commmit --> repository
 Head: repository cuối cùng
 index: chứa những thông tin trong stagging area 
 working directory: nơi đang làm việc (máy tính)
+
+-------------------Các câu lệnh----------------------
+git add [file name]: thêm file vào index
+
+git add . : thêm tất cả các tệp vào index
+
+git commit -m "message": tạo commit mới --> repo
+
+git status: sự khác biệt giữa 3 cây
+
+git diff: so sánh với commit cuối cùng
+
+git log: xem lịch sử commit chúng ta làm việc
+
+
