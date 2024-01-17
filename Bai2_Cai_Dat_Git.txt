@@ -1,0 +1,2 @@
+install: git-scm.com
+Kiểm tra phiên bản: git --version

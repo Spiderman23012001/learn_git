@@ -1,0 +1,8 @@
+local2 <---> Central Repo <----> Local1
+
+Lợi ích:
+- Đảm bảo chúng ta không làm hỏng bất cứ thứ gì vĩnh viễn
+- Giúp chúng ta có thể cộng tác
+- Phát triển phiên bản mới mà không ảnh hưởng tới phiên bản cũ đang có
+- Có thể quay lại phiên bản trước bất kỳ lúc nào 
+- Chia sẻ với người khác
