@@ -1,0 +1,3 @@
+cd: change direction <thay đổi thư mục>
+cd .. : quay về phía trước
+dir (windows) và ls (MacOs, Linux): hiển thị danh sách các tập tin thư mục hiện tại
