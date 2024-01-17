@@ -1,0 +1,2 @@
+Tạo repo: git init ex2
+xem cấu hình
