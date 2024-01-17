@@ -1,0 +1,3 @@
+Muốn gộp nhánh B vào A 
+1. git checkout A 
+2. git merge B

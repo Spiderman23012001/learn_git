@@ -1,0 +1,5 @@
+-------------------cú pháp-----------------
+git checkout <commit hash>
+==> chuyển đổi giữa các lần commit
+==> quay lại bất kỳ commit nào trước đó
+==> mỗi lần commit sẽ có 1 mã 

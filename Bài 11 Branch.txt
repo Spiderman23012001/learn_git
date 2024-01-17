@@ -1,0 +1,8 @@
+- Có nhiều người cùng tham giữa
+- Thử nghiệm (cần có hướng đi khác)
+- Quay lại/Tiếp tục
+
+- git branch <branch_name>: tạo nhánh
+- git checkout <branch_name>: chuyển sang branch_name
+- git checkout -b <branch_name>: tạo nhánh và chuyển sang branch_name
+- git branch -l: xem nhánh hiện tại
