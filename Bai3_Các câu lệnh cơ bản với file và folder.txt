@@ -1,3 +1,13 @@
 cd: change direction <thay đổi thư mục>
 cd .. : quay về phía trước
 dir (windows) và ls (MacOs, Linux): hiển thị danh sách các tập tin thư mục hiện tại
+mkdir <Folder Name>: tạo Folder
+touch vd1.txt: tạo file vd1.txt
+echo "nội dung" > "tên file.txt": Ghi đè
+echo "nội dung" >> "tên file.txt": ghi tiếp (new line)
+cat "ten file.txt": hiển thị nội dung
+diff file1 file2: so sánh khác biệt giữa file1 và file2
+rm filename: xóa file
+rm -d "folder": folder rỗng
+rm -r "folder": foler có dữ liệu
+rm -rf "folder": r and force 
