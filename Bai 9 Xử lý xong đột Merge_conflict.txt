@@ -1,0 +1,4 @@
+vấn đề:
+- không theo tuần tự
+- Pull về cùng lúc rồi push lên
+- fix: git pull về rồi sửa

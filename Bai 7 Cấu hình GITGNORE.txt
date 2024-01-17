@@ -1,0 +1,11 @@
+# bỏ qua file log: 
+*.log
+
+# bỏ qua thư mục:
+folder1/
+
+# tên file
+file.txt
+
+Note: trong .gitignore thì "#" là ghi chú
+
